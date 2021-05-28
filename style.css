@@ -1,0 +1,40 @@
+
+.tr{
+    line-height: 40px;
+    text-align: center;
+    background-color: coral;
+    border-style:groove;
+    border-color: cornsilk;
+    margin:5px;
+    padding:15px;
+
+
+}
+.td{
+    text-align: center;
+    font-size:15pt;
+    background-color: bisque;
+    border-style:groove;
+    border-color: cornsilk;
+}
+.tdt{
+    text-align: center;
+    font-size:15pt;
+    font-style: inherit;
+    font-weight: lighter;
+    background-color: darksalmon;
+    border-style: solid;
+    border-color: cornsilk;
+}
+h1{
+    background-color:aliceblue;
+    color:black;
+    padding:15px;
+    text-align: center;
+}
+.myform input{
+    margin:5px;
+}
+body{
+    background-color: grey;
+}
